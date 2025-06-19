@@ -1,16 +1,17 @@
-##Job Application Form 
-A responsive React form for job applications, collecting candidate details with client-side validation and a modern dark-themed UI.
+# Job Application Form
 
-- Features
-  
-Collects name, email, phone, position, experience, portfolio URL (optional), skills, and cover letter.
-Validates required fields, email, phone (10 digits), and minimum two skills.
-Responsive design for mobile and desktop.
-Error messages, disabled submit on errors, and success message on valid submission.
-Reset button to clear form.
+A responsive React job application form with a sleek dark UI and client-side validation.
 
-- Tech Stack
-  
-* React
-* CSS
-* JavaScript
+## Features
+
+- Collects name, email, phone, position, experience, skills, cover letter, and portfolio URL (optional)
+- Validates required fields, email format, 10-digit phone, and minimum two skills
+- Responsive for mobile and desktop
+- Error messages, disabled submit on errors, success message on submit
+- Reset button to clear form
+
+## Tech Stack
+
+- React  
+- JavaScript  
+- CSS
